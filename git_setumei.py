@@ -9,7 +9,7 @@
 #commit (add した後で出来る)
     # git commit - m '話したいメッセージ'
     # git push 
-
+#rerrerr
 
 
 def main ():
