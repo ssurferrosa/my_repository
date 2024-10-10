@@ -1,6 +1,6 @@
 # プル(updateさせる）、プッシュ(updateする)
 
-# # clone: git clone UIR
+# # clone: git clone UIR (紐づけの観点でこれが便利)
 
 #statusの概念(saveの感じ)
     #. 3
@@ -8,6 +8,7 @@
     # git status で確認できる
 #commit (add した後で出来る)
     # git commit - m '話したいメッセージ'
+    # git push 
 
 
 
