@@ -94,7 +94,7 @@ void camera_in_video_out() {
 }
 
 int main() {
-	//video_in_me();
-	video_in_stopwatch();
+	video_in_me();
+	//video_in_stopwatch();
 	return 0;
 }
